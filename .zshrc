@@ -11,6 +11,9 @@ zstyle :compinstall filename '/home/breccan/.zshrc'
 PROMPT='%~%#%>:%{\e[0m%}%%' # default prompt
 RPROMPT='[%n, %L] ' # prompt for right side of screen
 
+REPORTTIME=10
+LISTMAX=0
+
 export EDITOR="vim"
 
 autoload -U colors
@@ -19,3 +22,5 @@ colors
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
+
+setopt pushdtohome pushdsilent pushd_ignore_dups pushdminus share_history

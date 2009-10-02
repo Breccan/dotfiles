@@ -1,7 +1,9 @@
 #!/usr/bin/env ruby
 Dir.glob(".[a-z]*").each do |file_name|
   unless file_name == '.git'
-    `rm -rf ~/#{file_name}`
-    `ln -s ~/dotfiles/#{file_name} ~/`
+    rm = `rm -rf ~/#{file_name}`
+    puts rm
+    ln = `ln -s ~/dotfiles/#{file_name} ~/`
+    puts ln
   end
 end
