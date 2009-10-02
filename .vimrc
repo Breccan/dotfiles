@@ -42,6 +42,8 @@ set cindent
 set autoindent 
 set smarttab 
 set expandtab 
+filetype indent on
+filetype plugin indent on
 
 " Visual 
 set showmatch  " Show matching brackets. 
