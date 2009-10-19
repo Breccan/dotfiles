@@ -71,4 +71,5 @@ set mouse=a  " Mouse in all modes
 :map ges :Rspec<Space>
 :nmap H 0
 :nmap L $
+:map <F2> :Rproject<CR>
 
