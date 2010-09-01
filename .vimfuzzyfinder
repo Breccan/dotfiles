@@ -1,3 +1,31 @@
 VERSION	217
+MruFile.data	{'word': '/home/breccan/.vimrc', 'time': 1283319884}
+MruFile.data	{'word': '/home/breccan/dotfiles/.vim/ruby/command-t/GoToFile', 'time': 1283319835}
+MruFile.data	{'word': '/home/breccan/vim73/Makefile', 'time': 1283319314}
+MruFile.data	{'word': '/home/breccan/vim73/make', 'time': 1283319311}
+MruFile.data	{'word': '/home/breccan/vim73/src/configure', 'time': 1283319298}
+MruFile.data	{'word': '/home/breccan/vim73/src/config', 'time': 1283319295}
+MruFile.data	{'word': '/home/breccan/vim73/configure', 'time': 1283319270}
+MruFile.data	{'word': '/home/breccan/node/dunno/source/game/worlds/discoworld/npcs/lost_raver.js', 'time': 1283318942}
+MruFile.data	{'word': '/etc/apt/preferences', 'time': 1283318087}
+MruFile.data	{'word': '/etc/apt/sources.list', 'time': 1283318067}
+MruFile.data	{'word': '/home/breccan/dotfiles/.vim/ruby/command-t/vim.rb', 'time': 1283317905}
+MruFile.data	{'word': '/home/breccan/dotfiles/.vim/ruby/command-t/settings.rb', 'time': 1283317889}
 MruFile.data	{'word': '/home/breccan/dotfiles/setup', 'time': 1283317517}
-MruCmd.data	{'word': ':wq', 'time': 1283317517}
+MruCmd.data	{'word': ':wq', 'time': 1283319884}
+MruCmd.data	{'word': ':q', 'time': 1283319855}
+MruCmd.data	{'word': ':CommandT', 'time': 1283319834}
+MruCmd.data	{'word': ':h commandt', 'time': 1283319807}
+MruCmd.data	{'word': ':command', 'time': 1283319800}
+MruCmd.data	{'word': ':commandt', 'time': 1283319797}
+MruCmd.data	{'word': ':help command-t', 'time': 1283319674}
+MruCmd.data	{'word': ':ruby puts 1', 'time': 1283319493}
+MruCmd.data	{'word': ':ruby 1', 'time': 1283319484}
+MruCmd.data	{'word': ':ruby', 'time': 1283319482}
+MruCmd.data	{'word': '/ruby', 'time': 1283319339}
+MruCmd.data	{'word': ':help commandt', 'time': 1283319020}
+MruCmd.data	{'word': ':qa', 'time': 1283318947}
+MruCmd.data	{'word': ':Commandt', 'time': 1283318401}
+MruCmd.data	{'word': ':q!', 'time': 1283318099}
+MruCmd.data	{'word': ':w !sudo tee %', 'time': 1283318097}
+MruCmd.data	{'word': ':command-t', 'time': 1283317739}
