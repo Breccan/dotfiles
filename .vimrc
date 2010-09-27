@@ -57,7 +57,7 @@ set mousehide  " Hide mouse after chars typed
 set mouse=a  " Mouse in all modes
 
 "Keymappings
-:map , :CommandT<CR>
+:map , :FuzzyFinderFileWithCurrentBufferDir<CR>
 :map gc :Rcontroller<CR> 
 :map gm :Rmodel<CR> 
 :map gv :Rview<CR> 
@@ -72,4 +72,8 @@ set mouse=a  " Mouse in all modes
 :nmap H 0
 :nmap L $
 :map <F2> :Rtree<CR>
+
+nnoremap <F3> :set invpaste paste?<CR>
+set pastetoggle=<F3>
+set showmode
 

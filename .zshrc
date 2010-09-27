@@ -41,4 +41,3 @@ if [ "$TERM" != "dumb" ] && [ -x /usr/bin/dircolors ]; then
 fi
 
 if [[ -s /home/breccan/.rvm/scripts/rvm ]] ; then source /home/breccan/.rvm/scripts/rvm ; fi
-source /etc/profile.d/autojump.zsh
