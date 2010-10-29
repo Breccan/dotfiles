@@ -29,6 +29,7 @@ set nowrap  " Line wrapping off
 set timeoutlen=250  " Time to wait after ESC (default causes an annoying delay
 set t_Co=256 
 colorscheme vividchalk 
+let clj_highlight_builtins = 1
 
 " Formatting (some of these are for coding in C and C++) 
 set ts=2  " Tabs are 2 spaces 
