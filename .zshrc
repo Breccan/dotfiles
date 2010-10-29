@@ -15,6 +15,7 @@ REPORTTIME=10
 LISTMAX=0
 
 export EDITOR="vim"
+export ZEBRA_CHANGES_PERMITTED=true
 
 autoload -U colors
 colors

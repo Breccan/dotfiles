@@ -1,8 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/breccan/code/deployinator/config/environments'
-let g:netrw_dirhist_2='/home/breccan/NetBeansProjects/labour/trunk/Labour/config'
-let g:netrw_dirhist_3='/home/breccan/code/Deployinator/app/views'
-let g:netrw_dirhist_4='/home/breccan/code/Deployinator/app/models'
-let g:netrw_dirhist_5='/home/breccan/code/Deployinator/app/views'
-let g:netrw_dirhist_6='/home/breccan/dotfiles/.vim'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/breccan/rumble/atn/app/controllers'
+let g:netrw_dirhist_2='/home/breccan/rumble/atn/app/views/home'
+let g:netrw_dirhist_3='/home/breccan/kete/kete_translatable_content/lib/kete_translatable_content'
+let g:netrw_dirhist_4='/home/breccan/kete/kete_translatable_content/lib/kete_translatable_content/extensions'
