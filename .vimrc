@@ -80,15 +80,12 @@ set showmode
 set rtp+=~/.vim/vundle.git/ 
 call vundle#rc()
 Bundle "L9"
-Bundle "FuzzyFinder"
 Bundle "rails.vim"
 Bundle "ack.vim"
 Bundle "git://git.wincent.com/command-t.git"
 " Programming
 Bundle "jQuery"
 
-" Snippets
-Bundle "http://github.com/gmarik/snipmate.vim.git"
 
 " Syntax highlight
 Bundle "cucumber.zip"
