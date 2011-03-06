@@ -29,7 +29,6 @@ set nowrap  " Line wrapping off
 set timeoutlen=250  " Time to wait after ESC (default causes an annoying delay
 set t_Co=256 
 colorscheme vividchalk 
-let clj_highlight_builtins = 1
 
 " Formatting (some of these are for coding in C and C++) 
 set ts=2  " Tabs are 2 spaces 
@@ -78,3 +77,33 @@ nnoremap <F3> :set invpaste paste?<CR>
 set pastetoggle=<F3>
 set showmode
 
+set rtp+=~/.vim/vundle.git/ 
+call vundle#rc()
+Bundle "L9"
+Bundle "FuzzyFinder"
+Bundle "rails.vim"
+Bundle "ack.vim"
+Bundle "git://git.wincent.com/command-t.git"
+" Programming
+Bundle "jQuery"
+
+" Snippets
+Bundle "http://github.com/gmarik/snipmate.vim.git"
+
+" Syntax highlight
+Bundle "cucumber.zip"
+Bundle "Markdown"
+
+" Git integration
+Bundle "git.zip"
+Bundle "fugitive.vim"
+
+" (HT|X)ml tool
+Bundle "ragtag.vim"
+
+" Utility
+Bundle "repeat.vim"
+Bundle "surround.vim"
+Bundle "SuperTab"
+Bundle "file-line"
+Bundle "Align"
